@@ -1,0 +1,5 @@
+discord.py
+python.env
+python-dotenv
+asyncio
+os
